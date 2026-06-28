@@ -165,8 +165,8 @@ Highly rated products are not always expensive. Many affordable products also re
 
 ## Project Structure
 
-```
-📦 Jumia Product Performance Dashboard
+
+Jumia Product Performance Dashboard
 │
 ├── Excel_jumia_dataset_Clean.xlsx
 ├── Dashboard
@@ -175,7 +175,7 @@ Highly rated products are not always expensive. Many affordable products also re
 │   ├── dashboard.png
 │   └── analysis.png
 └── README.md
-```
+
 
 
 ## Skills Demonstrated
@@ -195,7 +195,7 @@ Highly rated products are not always expensive. Many affordable products also re
 
 ## Analysis Sheet
 
-![Analysis](images/analysis.png)
+![Image alt](https://github.com/young-odhiambo/Excel_Project/blob/ff0f1d1e32dc319c4e5b248d4223e4aa5db6bbde/Screenshot%20(188).png)
 
 
 ## ✅ Conclusion
