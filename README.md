@@ -151,7 +151,6 @@ Highly rated products are not always expensive. Many affordable products also re
 - Electric LED UV Mosquito Killer Lamp
 - Wall-mounted Sticker Punch-free Plug Fixer
 
----
 
 ## Business Insights
 
@@ -160,21 +159,6 @@ Highly rated products are not always expensive. Many affordable products also re
 - Affordable products can still achieve excellent ratings.
 - Product quality and customer satisfaction may influence purchasing decisions more than discount levels.
 - Interactive filtering allows quick comparison across rating and discount categories.
-
----
-
-## Project Structure
-
-
-Jumia Product Performance Dashboard
-│
-├── Excel_jumia_dataset_Clean.xlsx
-├── Dashboard
-├── Analysis
-├── Images
-│   ├── dashboard.png
-│   └── analysis.png
-└── README.md
 
 
 
