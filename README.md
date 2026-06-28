@@ -80,7 +80,7 @@ The interactive dashboard contains:
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![image alt](https://github.com/young-odhiambo/Excel_Project/blob/39d654d8ff1ba99d0f89fa2777aea2962f353d97/Screenshot%20(187).png)
 
 
 
